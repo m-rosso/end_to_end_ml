@@ -1,0 +1,9 @@
+.mypy_cache/
+artifacts/*
+data/*
+deploy/new_user_credentials.csv
+experiments/*
+logs/*
+model_dev/Support Codes.py
+.env
+Project.txt

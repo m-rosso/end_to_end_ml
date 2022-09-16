@@ -1,0 +1,7 @@
+{
+    "threshold": 0.5,
+    "responses": {
+    	"safe": "",
+    	"malware": "Warning, this app may cause damages on your device."
+    }
+}

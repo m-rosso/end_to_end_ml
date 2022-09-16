@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  anonymization-api:
+    image: example7compose
+    build: .
+    ports:
+      - 8015:8015

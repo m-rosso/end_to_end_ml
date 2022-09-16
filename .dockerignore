@@ -1,0 +1,14 @@
+.mypy_cache/
+artifacts/ensemble.pickle
+artifacts/model_registry.json
+artifacts/pipeline.pickle
+artifacts/sample_inputs.json
+artifacts/schema.json
+artifacts/variables.json
+data/
+deploy/
+docs/
+experiments/
+notebooks/
+tests/
+Project.txt
