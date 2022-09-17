@@ -1,5 +1,6 @@
 .mypy_cache/
 artifacts/*
+!artifacts/.gitkeep 
 data/*
 deploy/new_user_credentials.csv
 experiments/*
