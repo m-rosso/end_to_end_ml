@@ -2,9 +2,12 @@
 artifacts/*
 !artifacts/.gitkeep 
 data/*
+!data/.gitkeep
 deploy/new_user_credentials.csv
 experiments/*
+!experiments/.gitkeep
 logs/*
+!logs/.gitkeep
 model_dev/Support Codes.py
 .env
 Project.txt
