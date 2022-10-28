@@ -1,4 +1,4 @@
-## Discussion
+## Discovery
 This stage of a machine learning project development, which is the crucial one, was not fully undertaken here given that the **main objectives of this project** are methodological and technological, being defined as these:
 * Integrate different study fields.
 * Apply several distinct technologies.
