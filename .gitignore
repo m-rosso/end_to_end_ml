@@ -8,6 +8,9 @@ experiments/*
 !experiments/.gitkeep
 logs/*
 !logs/.gitkeep
-model_dev/Support Codes.py
+notebooks/Support Codes.py
+notebooks/__pycache__/
+notebooks/deploy_ref/
+notebooks/ref/
 .env
 Project.txt
